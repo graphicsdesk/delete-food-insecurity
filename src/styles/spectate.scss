@@ -50,6 +50,7 @@ $fade-transition-duration: 0.25s;
 
 body {
   margin: 0;
+  background: #FFFBF0;
 }
 
 h1,
@@ -120,7 +121,7 @@ b {
     background-color: rgba(0, 0, 0, 0.6);
     max-width: 700px;
     color: #fff;
-    transform: translateY(-150%); // TODO: do better;
+    transform: translateY(-130%); // TODO: do better;
     align-items: center;
 
     p,
@@ -242,7 +243,7 @@ header {
   width: 100%;
   height: $navbar-height;
   position: fixed;
-  background-color: #fff;
+  background-color: #FFFBF0;
   z-index: 1000;
   transition-duration: $fade-transition-duration;
   box-shadow: $navbar-shadow;
