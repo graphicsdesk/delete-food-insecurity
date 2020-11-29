@@ -1,151 +1,151 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.2" baseProfile="tiny" id="g-plate-desktop_tablet-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 600 550" xml:space="preserve">
+	 x="0px" y="0px" viewBox="0 0 600 500" xml:space="preserve">
 <g>
 	<g id="layer1_9_" transform="translate(-72.047241,-226.18111)">
 		<g id="g3176_9_">
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="256.9077" y1="395.6617" x2="573.3124" y2="681.6772">
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="279.4709" y1="391.6508" x2="532.5945" y2="620.4633">
 				<stop  offset="0" style="stop-color:#FCFDFF"/>
 				<stop  offset="1" style="stop-color:#F0EFEF"/>
 			</linearGradient>
-			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="256.5553" y1="395.343" x2="573.4098" y2="681.7652">
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="279.0137" y1="391.2376" x2="532.7966" y2="620.6459">
 				<stop  offset="0" style="stop-color:#F0EFEF"/>
 				<stop  offset="1" style="stop-color:#FCFDFF"/>
 			</linearGradient>
-			<path fill-rule="evenodd" fill="url(#SVGID_1_)" stroke="url(#SVGID_2_)" stroke-width="1.6081" d="M389.164,260.681
-				l-0.472,253.91c0,0-204.87,96.858-227.834,107.714c41.13,80.892,125.157,136.311,222.131,136.297
-				c137.519-0.02,248.984-111.501,248.963-249c0-0.024,0-0.049,0-0.073C631.932,374.12,523.795,263.977,389.164,260.681z"/>
-			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="503.4989" y1="619.2096" x2="304.3184" y2="437.8329">
+			<path fill-rule="evenodd" fill="url(#SVGID_1_)" stroke="url(#SVGID_2_)" stroke-width="1.6081" d="M385.276,283.666
+				l-0.378,203.128c0,0-163.896,77.486-182.267,86.171c32.904,64.714,100.126,109.049,177.705,109.038
+				c110.015-0.016,199.187-89.201,199.171-199.2c0-0.02,0-0.039,0-0.059C579.49,374.417,492.981,286.303,385.276,283.666z"/>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="477.1355" y1="570.8459" x2="316.8337" y2="424.8728">
 				<stop  offset="0" style="stop-color:#EBEBEB"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</linearGradient>
-			<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_3_)" stroke-width="5.4046" d="M389.16,347.306
-				c-0.052-0.002-0.105-0.001-0.157-0.003l-0.311,167.289c0,0-82.952,39.218-149.206,70.541
-				c27.157,51.664,81.307,86.893,143.681,86.878c89.589-0.022,162.198-72.734,162.176-162.408c0-0.027,0-0.053,0-0.08
-				C545.322,421.885,475.937,350.481,389.16,347.306z"/>
+			<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_3_)" stroke-width="5.4046" d="M385.273,352.966
+				c-0.042-0.001-0.084-0.001-0.126-0.002l-0.249,133.831c0,0-66.362,31.374-119.365,56.433
+				c21.726,41.331,65.046,69.515,114.945,69.503c71.672-0.018,129.759-58.188,129.741-129.926c0-0.021,0-0.043,0-0.064
+				C510.202,412.63,454.694,355.506,385.273,352.966z"/>
 		</g>
 	</g>
-	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="316.6163" y1="288.3792" x2="316.6163" y2="288.3792">
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="312.8283" y1="260.5887" x2="312.8283" y2="260.5887">
 		<stop  offset="0" style="stop-color:#EBEBEB"/>
 		<stop  offset="1" style="stop-color:#FFFFFF"/>
 	</linearGradient>
-	<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_4_)" stroke-width="5.4046" d="M316.616,288.379"/>
+	<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_4_)" stroke-width="5.4046" d="M312.828,260.589"/>
 	<g id="layer1_8_" transform="translate(-72.047241,-226.18111)">
 		<g id="g3176_8_">
-			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="153.5979" y1="337.6669" x2="350.9934" y2="516.1035">
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="196.823" y1="345.2551" x2="354.7393" y2="488.0043">
 				<stop  offset="0" style="stop-color:#FCFDFF"/>
 				<stop  offset="1" style="stop-color:#F0EFEF"/>
 			</linearGradient>
-			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="153.3371" y1="337.3692" x2="351.4149" y2="516.4225">
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="196.4969" y1="344.8983" x2="355.2262" y2="488.3824">
 				<stop  offset="0" style="stop-color:#F0EFEF"/>
 				<stop  offset="1" style="stop-color:#FCFDFF"/>
 			</linearGradient>
-			<path fill-rule="evenodd" fill="url(#SVGID_5_)" stroke="url(#SVGID_6_)" stroke-width="1.6081" d="M362.707,242.69
-				c-2.077-0.051-4.16-0.078-6.249-0.078c-137.519,0.02-248.984,111.501-248.963,249c0,0.024,0,0.049,0,0.073
-				c0.006,40.539,9.709,78.809,26.906,112.63l227.834-107.714L362.707,242.69z"/>
-			<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="305.9743" y1="465.1118" x2="225.5347" y2="391.8623">
+			<path fill-rule="evenodd" fill="url(#SVGID_5_)" stroke="url(#SVGID_6_)" stroke-width="1.6081" d="M364.11,269.274
+				c-1.662-0.041-3.328-0.063-4.999-0.062c-110.015,0.016-199.187,89.201-199.171,199.2c0,0.02,0,0.039,0,0.059
+				c0.005,32.431,7.767,63.047,21.524,90.104l182.267-86.171L364.11,269.274z"/>
+			<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="318.8239" y1="447.3665" x2="253.9449" y2="388.2868">
 				<stop  offset="0" style="stop-color:#EBEBEB"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</linearGradient>
-			<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_7_)" stroke-width="5.4046" d="M362.546,329.312
-				c-1.963-0.07-3.935-0.108-5.916-0.107c-89.589,0.022-162.198,72.734-162.176,162.408c0,0.027,0,0.053,0,0.08
-				c0.007,27.241,6.725,52.907,18.575,75.45"/>
+			<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_7_)" stroke-width="5.4046" d="M363.981,338.571
+				c-1.571-0.056-3.148-0.086-4.732-0.086c-71.672,0.018-129.759,58.187-129.741,129.926c0,0.021,0,0.043,0,0.064
+				c0.005,21.793,5.38,42.326,14.86,60.36"/>
 		</g>
 	</g>
-	<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="267.6599" y1="257.8791" x2="267.6599" y2="257.8791">
+	<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="273.6631" y1="236.1886" x2="273.6631" y2="236.1886">
 		<stop  offset="0" style="stop-color:#EBEBEB"/>
 		<stop  offset="1" style="stop-color:#FFFFFF"/>
 	</linearGradient>
-	<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_8_)" stroke-width="5.4046" d="M267.66,257.879"/>
+	<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_8_)" stroke-width="5.4046" d="M273.663,236.189"/>
 	<g id="layer1_6_" transform="translate(-72.047241,-226.18111)">
 		<g id="g3176_6_">
-			<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="506.7029" y1="624.1279" x2="307.5223" y2="442.7513">
+			<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="479.6987" y1="574.7806" x2="319.3969" y2="428.8074">
 				<stop  offset="0" style="stop-color:#EBEBEB"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</linearGradient>
-			<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_9_)" stroke-width="5.4046" d="M392.364,352.224
-				c-0.052-0.002-0.105-0.001-0.157-0.003l-0.311,167.289c0,0-82.952,39.218-149.206,70.541
-				c27.157,51.664,81.307,86.893,143.681,86.878c89.589-0.022,162.198-72.734,162.176-162.408c0-0.027,0-0.053,0-0.08
-				C548.526,426.803,479.14,355.399,392.364,352.224z"/>
+			<path fill-rule="evenodd" fill="#F5F5F5" stroke="url(#SVGID_9_)" stroke-width="5.4046" d="M387.836,356.901
+				c-0.042-0.001-0.084-0.001-0.126-0.002l-0.249,133.831c0,0-66.362,31.374-119.365,56.433
+				c21.726,41.331,65.046,69.515,114.945,69.503c71.672-0.018,129.759-58.188,129.741-129.926c0-0.021,0-0.043,0-0.064
+				C512.765,416.564,457.257,359.441,387.836,356.901z"/>
 		</g>
 	</g>
-	<path fill-rule="evenodd" fill="none" d="M106.267,410.929c0,70.303,73.988,106.348,175.95,133.043
-		c110.363,28.895,275.987-89.056,272.276-182.467"/>
+	<path fill-rule="evenodd" fill="none" d="M67.919,352.457c0,70.303,69.85,108.537,174.076,124.211
+		c130.853,19.679,271.466-80.603,267.755-174.014"/>
 	
-		<text transform="matrix(0.9178 -0.4043 0.4031 0.9151 406.7119 528.6084)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">S</text>
+		<text transform="matrix(0.9259 -0.3853 0.3842 0.9233 374.3709 459.5197)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">S</text>
 	
-		<text transform="matrix(0.9082 -0.4254 0.4242 0.9056 413.2041 525.7471)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">o</text>
+		<text transform="matrix(0.9163 -0.4077 0.4065 0.9136 380.9081 456.799)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">o</text>
 	
-		<text transform="matrix(0.8987 -0.4451 0.4438 0.8961 419.3584 522.8633)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">u</text>
+		<text transform="matrix(0.9065 -0.4291 0.4279 0.9038 387.1405 454.0245)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">u</text>
 	
-		<text transform="matrix(0.891 -0.4604 0.459 0.8884 425.248 519.9336)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">r</text>
+		<text transform="matrix(0.8983 -0.446 0.4447 0.8957 393.1112 451.1857)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">r</text>
 	
-		<text transform="matrix(0.8833 -0.4749 0.4735 0.8808 428.8496 518.083)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">c</text>
+		<text transform="matrix(0.8901 -0.4622 0.4609 0.8875 396.7303 449.3986)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">c</text>
 	
-		<text transform="matrix(0.8738 -0.4922 0.4908 0.8713 434.333 515.1357)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">e</text>
+		<text transform="matrix(0.8795 -0.4819 0.4805 0.877 402.2743 446.5226)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">e</text>
 	
-		<text transform="matrix(0.8666 -0.5048 0.5033 0.8641 439.8379 512.0205)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">:</text>
+		<text transform="matrix(0.8715 -0.4963 0.4949 0.869 407.8397 443.4572)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">:</text>
 	
-		<text transform="matrix(0.862 -0.5127 0.5112 0.8595 442.3457 510.5596)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px"> </text>
+		<text transform="matrix(0.8663 -0.5054 0.5039 0.8638 410.3426 442.0314)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px"> </text>
 	
-		<text transform="matrix(0.8543 -0.5254 0.5239 0.8518 444.8779 509.0693)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">F</text>
+		<text transform="matrix(0.8574 -0.5203 0.5188 0.8549 412.909 440.5519)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">F</text>
 	
-		<text transform="matrix(0.8431 -0.5431 0.5415 0.8407 450.4883 505.6201)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">o</text>
+		<text transform="matrix(0.8444 -0.5411 0.5395 0.842 418.5536 437.13)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">o</text>
 	
-		<text transform="matrix(0.8315 -0.5608 0.5592 0.829 456.2041 501.9404)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">o</text>
+		<text transform="matrix(0.8305 -0.5622 0.5606 0.8281 424.2948 433.4523)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">o</text>
 	
-		<text transform="matrix(0.8194 -0.5783 0.5766 0.817 461.8574 498.127)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">d</text>
+		<text transform="matrix(0.8159 -0.5833 0.5816 0.8135 429.95 429.6241)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">d</text>
 	
-		<text transform="matrix(0.8105 -0.5907 0.589 0.8081 467.3379 494.2412)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px"> </text>
+		<text transform="matrix(0.8049 -0.5983 0.5965 0.8026 435.4198 425.6945)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px"> </text>
 	
-		<text transform="matrix(0.8006 -0.6041 0.6023 0.7982 469.7461 492.5098)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">B</text>
+		<text transform="matrix(0.7926 -0.6145 0.6127 0.7903 437.7948 423.9581)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">B</text>
 	
-		<text transform="matrix(0.7868 -0.6219 0.6201 0.7846 475.666 488.0381)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">a</text>
+		<text transform="matrix(0.7752 -0.6363 0.6345 0.773 443.6815 419.3859)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">a</text>
 	
-		<text transform="matrix(0.7733 -0.6386 0.6367 0.7711 480.749 484.0215)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">n</text>
+		<text transform="matrix(0.7579 -0.6568 0.6549 0.7557 448.6893 415.2784)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">n</text>
 	
-		<text transform="matrix(0.7596 -0.6548 0.6529 0.7574 485.8271 479.8262)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">k</text>
+		<text transform="matrix(0.74 -0.6769 0.6749 0.7379 453.6756 410.9532)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">k</text>
 	
-		<text transform="matrix(0.7495 -0.6664 0.6645 0.7473 490.3955 475.873)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px"> </text>
+		<text transform="matrix(0.7267 -0.6912 0.6892 0.7245 458.1424 406.8478)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px"> </text>
 	
-		<text transform="matrix(0.7412 -0.6757 0.6737 0.739 492.6201 473.8984)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">f</text>
+		<text transform="matrix(0.7157 -0.7026 0.7005 0.7136 460.2782 404.8234)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">f</text>
 	
-		<text transform="matrix(0.7279 -0.6899 0.6879 0.7258 495.6816 471.126)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">o</text>
+		<text transform="matrix(0.698 -0.7202 0.7181 0.6959 463.2401 401.9415)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">o</text>
 	
-		<text transform="matrix(0.7141 -0.7041 0.7021 0.7121 500.6035 466.4443)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">r</text>
+		<text transform="matrix(0.6794 -0.7377 0.7356 0.6774 467.9725 397.0333)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">r</text>
 	
-		<text transform="matrix(0.7049 -0.7134 0.7114 0.7028 503.4824 463.6006)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px"> </text>
+		<text transform="matrix(0.6668 -0.7491 0.747 0.6649 470.7069 394.0577)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px"> </text>
 	
-		<text transform="matrix(0.689 -0.7288 0.7267 0.687 505.5605 461.542)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">N</text>
+		<text transform="matrix(0.6448 -0.7681 0.7659 0.643 472.7332 391.8419)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">N</text>
 	
-		<text transform="matrix(0.6671 -0.7489 0.7467 0.6651 511.3848 455.3613)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">e</text>
+		<text transform="matrix(0.6134 -0.7935 0.7912 0.6116 478.3661 385.0939)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">e</text>
 	
-		<text transform="matrix(0.6425 -0.7701 0.7678 0.6406 515.5898 450.6748)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">w</text>
+		<text transform="matrix(0.5779 -0.8197 0.8173 0.5762 482.4178 379.8956)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">w</text>
 	
-		<text transform="matrix(0.6218 -0.7868 0.7846 0.62 521.2998 443.7705)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px"> </text>
+		<text transform="matrix(0.5476 -0.8402 0.8378 0.546 487.6883 372.3214)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px"> </text>
 	
-		<text transform="matrix(0.6031 -0.8013 0.799 0.6013 523.1318 441.4932)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">Y</text>
+		<text transform="matrix(0.5199 -0.8576 0.8551 0.5184 489.4403 369.6906)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">Y</text>
 	
-		<text transform="matrix(0.5747 -0.8219 0.8195 0.5731 527.4785 435.7178)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">o</text>
+		<text transform="matrix(0.4786 -0.8813 0.8788 0.4772 493.2987 363.3107)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">o</text>
 	
-		<text transform="matrix(0.5502 -0.8385 0.8361 0.5486 531.4717 429.9668)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">r</text>
+		<text transform="matrix(0.4436 -0.8995 0.8968 0.4423 496.6483 357.0792)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">r</text>
 	
-		<text transform="matrix(0.5255 -0.8542 0.8517 0.524 533.79 426.4561)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">k</text>
+		<text transform="matrix(0.4088 -0.9158 0.9132 0.4076 498.5487 353.2657)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">k</text>
 	
-		<text transform="matrix(0.5018 -0.8683 0.8658 0.5004 537.0361 421.1377)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px"> </text>
+		<text transform="matrix(0.3754 -0.93 0.9273 0.3743 501.0858 347.5021)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px"> </text>
 	
-		<text transform="matrix(0.4713 -0.8852 0.8827 0.47 538.6406 418.4414)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">C</text>
+		<text transform="matrix(0.3331 -0.946 0.9432 0.3321 502.3319 344.5519)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">C</text>
 	
-		<text transform="matrix(0.4382 -0.9021 0.8995 0.437 542.3555 411.3623)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">i</text>
+		<text transform="matrix(0.2877 -0.9608 0.958 0.2869 504.9588 336.9025)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">i</text>
 	
-		<text transform="matrix(0.4155 -0.9128 0.9102 0.4143 543.6895 408.627)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">t</text>
+		<text transform="matrix(0.2572 -0.9694 0.9666 0.2565 505.8485 333.9503)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">t</text>
 	
-		<text transform="matrix(0.3812 -0.9277 0.925 0.3801 545.4062 404.8906)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px">y</text>
+		<text transform="matrix(0.2122 -0.9802 0.9774 0.2116 506.9305 329.9327)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px">y</text>
 	
-		<text transform="matrix(0.3476 -0.9407 0.938 0.3466 547.6113 399.4521)" fill="#787878" font-family="'Roboto-Regular'" font-size="11.9652px"> </text>
-	<polyline fill="none" stroke="#FFFBF0" stroke-width="12" stroke-miterlimit="10" points="316.614,25.108 318.578,290.678 
-		84.854,401.123 	"/>
+		<text transform="matrix(0.1696 -0.9885 0.9856 0.1691 508.1473 324.1583)" fill="#787878" font-family="'Roboto-Regular'" font-size="12px"> </text>
+	<polyline fill="none" stroke="#FFFBF0" stroke-width="12" stroke-miterlimit="10" points="312.827,49.971 314.398,262.428 
+		127.418,350.784 	"/>
 </g>
 <style>
 #g-plate-desktop_tablet-img rect, #g-plate-desktop_tablet-img circle, #g-plate-desktop_tablet-img path, #g-plate-desktop_tablet-img line, #g-plate-desktop_tablet-img polyline { vector-effect: non-scaling-stroke; }
