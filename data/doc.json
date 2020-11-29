@@ -17,11 +17,15 @@
     },
     {
       "type": "text",
-      "value": "COVID-19 and the subsequent economic recession have led to drastic changes across the city. There is a record number of homelessness and food insecurity, according to Ray Luetters, the Food Service Manager at St. Michael’s Saturday Kitchen in Manhattan Valley. Shelters, food pantries, and  soup kitchens have struggled to keep up, he added.. Food pantry and homeless shelter coordinators said the pandemic has led to more expenses as demand for services rises, fewer funding sources, and a decrease in donations and volunteers. With shelters and pantries being many people’s main source of basic necessities, these circumstances have led to a glaring food shortage"
+      "value": "COVID-19 and the subsequent economic recession have led to drastic changes across the city. There is a record number of homelessness and food insecurity, according to Ray Luetters, the Food Service Manager at St. Michael’s Saturday Kitchen in Manhattan Valley—and shelters, food pantries, and soup kitchens have all struggled to keep up. . Shelters, food pantries, and  soup kitchens have struggled to keep up, he added."
     },
     {
       "type": "text",
-      "value": "Before the pandemic hit, the recorded homeless population in municipal shelters in New York City was approximately <a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/10/NYCHomelessShelterPopulation-Worksheet-1983-PresentAugust2020.pdf\">62,000</a>. According to the NYC Department of Homeless Services and House Resources Administration, from January to August 2020, the numbers dropped to 57,660 individuals. However, the trend fails to depict that New York was declared as entering its <a href=\"https://www.coalitionforthehomeless.org/state-of-the-homeless-2020/\">fifth decade </a>of a homelessness crisis at the onset of 2020."
+      "value": "Food pantry and homeless shelter coordinators saysaid the pandemic has led to more expenses as demand for services rises, fewer funding sources, and a decrease in donations and volunteers. With shelters and pantries being many people’s main source of basic necessities, these circumstances have led to a glaring food shortage."
+    },
+    {
+      "type": "text",
+      "value": "Even before the pandemic hit, the situation was dire: New York was declared as entering its  fifth decade of a homelessness crisis at the onset of 2020. However, according to the NYC Department of Homeless Services and House Resources Administration, the recorded homeless population in municipal shelters decreased from 62,000 in January to 57,660 in August. Before the pandemic hit, the recorded homeless population in municipal shelters in New York City was approximately <a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/10/NYCHomelessShelterPopulation-Worksheet-1983-PresentAugust2020.pdf\">62,000</a><a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/10/NYCHomelessShelterPopulation-Worksheet-1983-PresentAugust2020.pdf\">. But from January to August, the homeless population dropped down to 57,660 individuals. </a>. According to the NYC Department of Homeless Services and House Resources Administration, from January to August 2020, the numbers dropped to 57,660 individuals. However, the trend fails to depict that New York was declared as entering its <a href=\"https://www.coalitionforthehomeless.org/state-of-the-homeless-2020/\">fifth decade </a>of a homelessness crisis at the onset of 2020."
     },
     {
       "type": "graphic",
@@ -31,7 +35,15 @@
     },
     {
       "type": "text",
-      "value": "While this decrease in the reported number of homeless New Yorkers seems odd, there are a few reasons this might be the case. Homeless shelters are typically crowded, which is conducive for the transmission of COVID-19. The CDC has recommended <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/community/homeless-shelters/plan-prepare-respond.html\">interim procedures</a> for shelters to prevent infection. This plan included creating overflow, isolation, quarantine, and protective housing sites to accommodate the necessary safety procedures. This increase in locations for homeless residents to stay and shuffling out of shelters may have posed a challenge for recording an accurate number of homelessness per month. Further, the census does not report the number of unsheltered homeless people, which may also have increased due to the lack of space within shelters. Additionally, the pandemic impacted the homeless population directly. In April, the amount of deaths related to Covid-19 among homeless people was <a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/05/COVID-19TestimonyMay182020.pdf\">157 percent higher</a> than the amount of their all-cause mortality in one month of 2019."
+      "value": "While this decrease in the reported number of homeless New Yorkers seems odd, there are a few reasons this might be the case. Homeless shelters are typically crowded, which is conducive for the transmission of COVID-19. The CDC has recommended <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/community/homeless-shelters/plan-prepare-respond.html\">interim procedures</a> for shelters to prevent infection, which included creating overflow, isolation, quarantine, and protective housing sites to accommodate the necessary safety procedures. This plan included creating overflow, isolation, quarantine, and protective housing sites to accommodate the necessary safety procedures. This increase in locations for homeless residents to stay and shuffling out of shelters may have posed a challenge for recording an accurate number of homeless individuals homelessness per month. Lack of space within shelters may have also increased the number of unsheltered homeless individuals—a number that the Census does not track."
+    },
+    {
+      "type": "text",
+      "value": "In addition, however, the pandemic has disproportionately hurt the city’s homeless populations. In April, the amount of deaths related to COVID-19 among homeless people was 157 percent higher than the amount of their all-cause mortality in one month of 2019."
+    },
+    {
+      "type": "text",
+      "value": "Further, the Censuscensus does not report the number of unsheltered homeless people, which may also have increased due to the lack of space within shelters. Additionally, the pandemic impacted the homeless population directly. In April, the amount of deaths related to Covid-19 among homeless people was <a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/05/COVID-19TestimonyMay182020.pdf\">157 percent higher</a> than the amount of their all-cause mortality in one month of 2019."
     },
     {
       "type": "text",
@@ -78,14 +90,14 @@
       "value": "<a href=\"https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-morningside-heights-hamilton-heights/\">One third</a> of food pantries in NYC were forced to close because they were unable to support their visitors. The open food pantries have been able to serve many of the people needing their help, but many visitors left with empty stomachs. In April, <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">53</a> percent of food pantries and soup kitchens surveyed reported turning people away because of food shortages."
     },
     {
-      "type": "text",
-      "value": "Avery noted that within an hour and half of handing out food, they usually run out. “We run out of food, and the line keeps moving quickly. People know that by 11:15, we’re wrapping up,” he said."
-    },
-    {
       "type": "graphic",
       "value": {
         "asset": "pantries.html"
       }
+    },
+    {
+      "type": "text",
+      "value": "Avery noted that within an hour and half of handing out food, they usually run out. “We run out of food, and the line keeps moving quickly. People know that by 11:15, we’re wrapping up,” he said."
     },
     {
       "type": "text",

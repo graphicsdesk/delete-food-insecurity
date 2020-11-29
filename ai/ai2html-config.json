@@ -19,6 +19,12 @@
       "family": "Roboto,arial,helvetica,sans-serif",
       "weight": "",
       "style": "italic"
+    },
+    {
+      "aifont": "Roboto-Medium",
+      "family": "Roboto,arial,helvetica,sans-serif",
+      "weight": "500",
+      "style": ""
     }
   ]
 }
