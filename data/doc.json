@@ -1,31 +1,35 @@
 {
   "headline": "As COVID-19 cases rise, so does food insecurity among the homeless. Can food providers and shelters keep up?",
-  "date": "December 1, 2020",
+  "date": "November 30, 2020",
   "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Maya-Mitrasinovic/\">Maya Mitrasinovic</a> and <a href=\"https://www.columbiaspectator.com/contributors/Elizabeth-Commisso/\">Elizabeth Commisso</a>",
   "body": [
     {
       "type": "text",
-      "value": "Omar Santos, a security staffer of thirteen years for St. Michael’s Episcopal Church, and Susan, a volunteer, waved to residents early Saturday morning as they handed out bags filled with food—spaghetti and meatballs was the entree this week, paired with a bagel, salad, juice, and more. The line stretched around the block. Within only half an hour of handing out food, Susan and Omar had gone through 200 bags."
+      "value": "Omar Santos, a security staffer of 13 years for St. Michael’s Episcopal Church in Manhattan Valley, and Susan, a volunteer who declined to give her last name, waved to residents Saturday morning as they handed out bags filled with food. Spaghetti and meatballs was the entree this week, paired with a bagel, salad, juice, and more. The line stretched around the block. After only half an hour of handing out food, Susan and Omar had distributed 200 bags."
     },
     {
       "type": "text",
-      "value": "St. Michael’s has run their Saturday Kitchen program for twenty-five years, serving around 200 people each week in a regular year. Before COVID-19, it was organized so that people could be seated indoors and given freshly-cooked meals, but a lot has changed since the onset of the pandemic."
+      "value": "St. Michael’s has run its Saturday Kitchen program for over 25 years, serving around 200 people each week in a regular year. Before COVID-19, people were seated indoors and given nutritious hot meals, but a lot has changed since the onset of the pandemic. Now they serve an average of 350 meals a week."
     },
     {
       "type": "text",
-      "value": "One man in line at St. Michael’s, who identified himself as homeless, expressed that COVID-19 has made it more difficult to get enough food each week. He emphasized how important food pantries and soup kitchens have been for him, adding, “You know, I don’t want to complain. Any food that we can get I’m grateful for.”"
+      "value": "One man in line at St. Michael’s, who identified himself as homeless, expressed that COVID-19 has made it more difficult to get enough food each week, in part due to the closing of multiple food banks and soup kitchens across the city and longer lines at those still open. He emphasized how important food pantries and soup kitchens have been for him, adding, “You know, I don’t want to complain. Any food that we can get I’m grateful for.”"
     },
     {
       "type": "text",
-      "value": "COVID-19 and the subsequent economic recession have led to drastic changes across the city. There is a record number of homelessness and food insecurity, according to Ray Luetters, the Food Service Manager at St. Michael’s Saturday Kitchen in Manhattan Valley—and shelters, food pantries, and soup kitchens have all struggled to keep up. . Shelters, food pantries, and  soup kitchens have struggled to keep up, he added."
+      "value": "COVID-19 and the subsequent economic recession have led to drastic changes across the city.  Ray Luetters, the Food Service Manager at St. Michael’s, has observed a record amount of homelessness and food insecurity while working at the soup kitchen during the pandemic, which many shelters, food pantries, and soup kitchens have also struggled to keep up with."
     },
     {
       "type": "text",
-      "value": "Food pantry and homeless shelter coordinators saysaid the pandemic has led to more expenses as demand for services rises, fewer funding sources, and a decrease in donations and volunteers. With shelters and pantries being many people’s main source of basic necessities, these circumstances have led to a glaring food shortage."
+      "value": "Food pantry and homeless shelter coordinators said that the pandemic has led to greater expenses as the demand for services has increased, though funding has dwindled and the number of volunteers has decreased. As shelters and pantries are many people’s main source of basic necessities, these circumstances have led to a glaring food shortage."
     },
     {
       "type": "text",
-      "value": "Even before the pandemic hit, the situation was dire: New York was declared as entering its  fifth decade of a homelessness crisis at the onset of 2020. However, according to the NYC Department of Homeless Services and House Resources Administration, the recorded homeless population in municipal shelters decreased from 62,000 in January to 57,660 in August. Before the pandemic hit, the recorded homeless population in municipal shelters in New York City was approximately <a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/10/NYCHomelessShelterPopulation-Worksheet-1983-PresentAugust2020.pdf\">62,000</a><a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/10/NYCHomelessShelterPopulation-Worksheet-1983-PresentAugust2020.pdf\">. But from January to August, the homeless population dropped down to 57,660 individuals. </a>. According to the NYC Department of Homeless Services and House Resources Administration, from January to August 2020, the numbers dropped to 57,660 individuals. However, the trend fails to depict that New York was declared as entering its <a href=\"https://www.coalitionforthehomeless.org/state-of-the-homeless-2020/\">fifth decade </a>of a homelessness crisis at the onset of 2020."
+      "value": "Even before the pandemic hit, the situation was dire: At the start of 2020, New York City entered its <a href=\"https://www.coalitionforthehomeless.org/state-of-the-homeless-2020/\">fifth decade </a>of a homelessness crisis. In April, the number of deaths related to COVID-19 among homeless people was <a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/05/COVID-19TestimonyMay182020.pdf\">157 percent higher</a> than the total number of deaths in an average month in 2019. Homeless shelters are typically crowded, which is conducive to the transmission of COVID-19,"
+    },
+    {
+      "type": "text",
+      "value": "However, according to the New York City Department of Homeless Services and Human Resources Administration, the recorded homeless population in municipal shelters decreased from <a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/10/NYCHomelessShelterPopulation-Worksheet-1983-PresentAugust2020.pdf\">62,700</a> in January to 57,700 in August."
     },
     {
       "type": "graphic",
@@ -35,19 +39,11 @@
     },
     {
       "type": "text",
-      "value": "While this decrease in the reported number of homeless New Yorkers seems odd, there are a few reasons this might be the case. Homeless shelters are typically crowded, which is conducive for the transmission of COVID-19. The CDC has recommended <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/community/homeless-shelters/plan-prepare-respond.html\">interim procedures</a> for shelters to prevent infection, which included creating overflow, isolation, quarantine, and protective housing sites to accommodate the necessary safety procedures. This plan included creating overflow, isolation, quarantine, and protective housing sites to accommodate the necessary safety procedures. This increase in locations for homeless residents to stay and shuffling out of shelters may have posed a challenge for recording an accurate number of homeless individuals homelessness per month. Lack of space within shelters may have also increased the number of unsheltered homeless individuals—a number that the Census does not track."
+      "value": "Despite the apparent decrease in the number of homeless New Yorkers, this discrepancy can be attributed to barriers that the pandemic has presented to accurately counting the city’s homeless population, largely due to a lack of resources during quarantine. Changes in the locations of homeless residents, in addition to a potential increase in the number of unsheltered homeless individuals, may have posed challenges for recording an accurate number for the homeless population each month."
     },
     {
       "type": "text",
-      "value": "In addition, however, the pandemic has disproportionately hurt the city’s homeless populations. In April, the amount of deaths related to COVID-19 among homeless people was 157 percent higher than the amount of their all-cause mortality in one month of 2019."
-    },
-    {
-      "type": "text",
-      "value": "Further, the Censuscensus does not report the number of unsheltered homeless people, which may also have increased due to the lack of space within shelters. Additionally, the pandemic impacted the homeless population directly. In April, the amount of deaths related to Covid-19 among homeless people was <a href=\"https://www.coalitionforthehomeless.org/wp-content/uploads/2020/05/COVID-19TestimonyMay182020.pdf\">157 percent higher</a> than the amount of their all-cause mortality in one month of 2019."
-    },
-    {
-      "type": "text",
-      "value": "Accessing essential resources for survival in the community as a homeless person is already difficult enough during an ordinary year, but COVID-19 has further exacerbated issues that homeless New Yorkers face, said John Avery, the Volunteer Coordinator at St. Michael’s Episcopal."
+      "value": "Accessing essential resources as a homeless person is already difficult during an ordinary year, but COVID-19 has further exacerbated issues that these New Yorkers face, according to John Avery, the Volunteer Coordinator at St. Michael’s Episcopal."
     },
     {
       "type": "text",
@@ -55,39 +51,35 @@
     },
     {
       "type": "text",
-      "value": "According to a June 2020 report by Food Bank for New York City, around <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">three quarters</a> of the food pantries around the city reported an increase in visitors, and around one third of those specified that the number had at least doubled. More specifically, there was a <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">91%</a> increase in first-time visitors to NYC food providers from January to April 2020."
+      "value": "Almost <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">three-quarters</a> of the food pantries around the city reported an increase in visitors, and around one-third of those specified that the number had at least doubled, according to a June 2020 report by Food Bank for New York City. There was also a <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">91</a> percent increase in first-time visitors to New York City food providers from January to April 2020."
     },
     {
       "type": "text",
-      "value": "Luetters said St. Michael’s Saturday Kitchen has struggled to keep up with the increasing numbers of people in need of food. Because of COVID-19, their numbers almost doubled over the course of a few months."
+      "value": "Luetters said St. Michael’s Saturday Kitchen has struggled to keep up with the increasing number of people in need of food. Because of COVID-19, its numbers have almost doubled over the course of a few months."
     },
     {
       "type": "text",
-      "value": "“The way that our numbers have risen, from 180-200 to 350-370, tells a story right there,” Luetters said. “There’s only so much oven, stove top, refrigeration. Our physical plan wasn’t built for this, so we’re trying to do as much as we can under the circumstances.”"
+      "value": "“The way that our numbers have risen, from 180-200 to 350-370 [a week], tells a story right there,” Luetters said. “There’s only so much oven, stove top, refrigeration. Our physical plan wasn’t built for this, so we’re trying to do as much as we can under the circumstances.”"
     },
     {
       "type": "text",
-      "value": "Other soup kitchens and food pantries around the neighborhood have faced similar issues."
+      "value": "Robin Klueber, who runs the Church of the Ascension Food Pantry in Manhattan Valley, also emphasized how a lack of funding has made providing for everyone who needs help difficult. The pantry has faced obstacles accessing grant money because of its designation as a religious organization, as well as the fact that they allow anyone to access their food without checking their income or homelessness status. The team doesn’t have enough staff to continue filling out grant applications if they know they will ultimately be rejected, Klueber said."
     },
     {
       "type": "text",
-      "value": "Robin Kleuber, who runs the Church of the Ascension Food Pantry in Manhattan Valley, also emphasized how a lack of funding has made providing for everyone who needs help difficult. They’ve had a hard time accessing enough grant money because of their designation as a religious organization and because they allow anyone to access their food without checking their income or homelessness status. The team doesn’t have enough staff to continue filling out grant applications if they know they will ultimately be rejected, Kleuber said."
+      "value": "Each time the pantry distributes food, they spend around $10,000 to $15,000. Because of this cost, they had to decrease food distribution from a weekly to biweekly basis."
     },
     {
       "type": "text",
-      "value": "Each time the pantry distributes food, they spend around ten to fifteen thousand dollars. Because of this, they had to decrease food distribution from a weekly to biweekly basis."
+      "value": "“We thought this was going to be a sprint. We thought we would just be doing this, at this volume and this frequently, until the government stepped in and did something. But it’s turned out to be a marathon because there’s not enough help,” Klueber explained."
     },
     {
       "type": "text",
-      "value": "“We thought this was going to be a sprint. We thought we would just be doing this, at this volume and this frequently, until the government stepped in and did something. But it’s turned out to be a marathon, because there’s not enough help,” Kleuber explained."
+      "value": "Furthermore, the donations and groceries that pantries give out are not always accessible for the homeless, as canned goods require a can opener, raw meat needs to be cooked, and perishables need to be refrigerated, Klueber said."
     },
     {
       "type": "text",
-      "value": "Kleuber said that this has taken a toll specifically on homeless people in the area. The Church of the Ascension in Manhattan Valley had to close their homeless shelter in March because of concerns over the spread of COVID-19. Also, the pantry gives out groceries that are not always accessible for the homeless, as canned goods require a can opener, raw meat needs to be cooked, and perishables need to be refrigerated, Kleuber said."
-    },
-    {
-      "type": "text",
-      "value": "<a href=\"https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-morningside-heights-hamilton-heights/\">One third</a> of food pantries in NYC were forced to close because they were unable to support their visitors. The open food pantries have been able to serve many of the people needing their help, but many visitors left with empty stomachs. In April, <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">53</a> percent of food pantries and soup kitchens surveyed reported turning people away because of food shortages."
+      "value": "<a href=\"https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-morningside-heights-hamilton-heights/\">One-third</a> of food pantries in New York City were forced to close because of the pandemic. The remaining food pantries have been able to serve many of the people needing their help, but many visitors still leave with empty stomachs. In April, <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">48</a> percent of open food pantries and soup kitchens that were surveyed reported turning people away because of food shortages. This leaves approximately only 35 percent of the usual number of New York City food providers able to serve all visitors."
     },
     {
       "type": "graphic",
@@ -101,15 +93,15 @@
     },
     {
       "type": "text",
-      "value": "Coupled with the increase in the number of homeless New Yorkers and a general lack of funding, many shelters have seen a decrease in donations and in the number of volunteers. Around the holiday season, shelters usually see an uptick in these numbers. However, this year, many have been worried this may not be the case."
+      "value": "Coupled with the increase in the number of homeless New Yorkers and a general lack of funding, many shelters have seen a decrease in donations and in the number of volunteers. Around the holiday season, shelters usually see an uptick in these numbers. However, this year, many have worried that this may not be the case."
     },
     {
       "type": "text",
-      "value": "The West Harlem Residence has been able to maintain the number of families that they serve despite COVID-19, because the shelter is broken up into 45 apartments, so people do not have to share a space with strangers. However, Cuff has noticed that while they usually have families moving in and out more frequently, the families currently in the shelter haven’t been leaving, other than a few being granted NYCHA housing and being able to move out."
+      "value": "Despite COVID-19, the West Harlem Residence has been able to maintain the number of families that they serve because the shelter is broken up into 45 apartments, so people do not have to share a space with strangers. However, director Jocelyn Cuff has noticed that while they usually have families moving in and out more frequently, the families currently in the shelter haven’t been leaving, other than the few being granted NYCHA housing who are able to move out."
     },
     {
       "type": "text",
-      "value": "Further, the West Harlem Residence usually sees a large amount of phone calls about volunteering and donation inquiries by this time of year. According to director Jocelyn Cuff, they haven’t gotten a single call yet."
+      "value": "Further, the West Harlem Residence usually sees a large number of phone calls about volunteering and donations around this time of year. However, according to Cuff, they haven’t gotten a single call yet."
     },
     {
       "type": "text",
@@ -123,7 +115,7 @@
     },
     {
       "type": "text",
-      "value": "Manhattan was slightly more equipped than the rest of New York City, because <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">68 percent</a> of Manhattan Emergency Food Providers remained open compared to<a href=\"https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-morningside-heights-hamilton-heights/\"> 66 percent</a> across the city as a whole. However, over <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">half </a>of the Manhattan food providers closed were within communities with the highest <a href=\"https://www.feedingamerica.org/sites/default/files/research/map-the-meal-gap/2012/2012-mapthemealgap-exec-summary.pdf\">Meal Gap</a>, a calculation of food insecurity based on the food budget shortfall versus the weighted cost per meal. Those communities endured further hardship with accessing food."
+      "value": "Manhattan is slightly more equipped than the rest of New York City, as <a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\">68 percent</a> of Manhattan Emergency Food Providers remain open compared to 62 percent across the city as a whole. However, almost three-quarters<a href=\"https://1giqgs400j4830k22r3m4wqg-wpengine.netdna-ssl.com/wp-content/uploads/Fighting-More-Than-Covid-19_Research-Report_Food-Bank-For-New-York-City_6.09.20_web.pdf\"> </a>of the closed Manhattan food providers are in communities with the highest <a href=\"https://www.feedingamerica.org/sites/default/files/research/map-the-meal-gap/2012/2012-mapthemealgap-exec-summary.pdf\">Meal Gap</a>—a calculation of food insecurity based on the food budget shortfall versus the weighted cost per meal—even prior to COVID. These communities have had to endure further hardship and food insecurity due to food provider closures."
     },
     {
       "type": "graphic",
@@ -133,15 +125,15 @@
     },
     {
       "type": "text",
-      "value": "Further, soup kitchens and shelters have had to change their operations for COVID-19 safety, which has led to a less decrease in the communal space ity aspect that many homeless people rely on."
+      "value": "Further, soup kitchens and shelters have had to change their operations for COVID-19 safety, which has led to a decrease in the communal space that many homeless people rely on."
     },
     {
       "type": "text",
-      "value": "Ricky Weitzel, the director of personnel at the Community Lunch Soup Kitchen in Morningside Heights, detailed having to restructure in ways similar to St. Michael’s Saturday Kitchen. Instead of being able to have people seated inside in a communal setting, they have to hand out bagged lunches outside to people waiting in line. While the essential part of these services—giving food to those in need—still gets done, the community aspect of sharing a meal with others is lost."
+      "value": "Ricky Weitzel, CC ’22, the director of personnel at the Community Lunch Soup Kitchen in Morningside Heights, detailed having to restructure in ways similar to St. Michael’s Saturday Kitchen. Instead of seating people in an indoor communal setting, they have to hand out bagged lunches to people waiting in line outside. While the essential part of these services—giving food to those in need—still gets done, the community aspect of sharing a meal with others is lost."
     },
     {
       "type": "text",
-      "value": "“It’s been a difficult time all the way around: the community has gone through a lot. The food is drying up,” said Edward Baugh, who has been coming to St. Michael’s Saturday Kitchen for eight years. “Some people have screaming mouths that they literally cannot feed. The soup kitchens are a resource for us to come—and while we’re here, sometimes this is the closest that we get to people and fellowship.”"
+      "value": "“It’s been a difficult time all the way around, the community has gone through a lot. The food is drying up,” Edward Baugh, who has been coming to St. Michael’s Saturday Kitchen for eight years, said. “Some people have screaming mouths that they literally cannot feed. The soup kitchens are a resource for us to come—and while we’re here, sometimes this is the closest that we get to people and fellowship.”"
     },
     {
       "type": "text",
